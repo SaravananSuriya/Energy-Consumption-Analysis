@@ -3,7 +3,7 @@ Project will analyze energy usage and greenhouse gas (GHG) emissions of Ontario'
 
 **Project Title:** Energy Consumption Analysis.
 
-**Technologies:**  Data Cleansing, Exploratory Data Analysis (EDA), Visualization (Tableau/Power BI)
+**Technologies:**  Data Cleaning, Exploratory Data Analysis (EDA), Visualization (Tableau/Power BI)
 
 **Dataset Link:** [Dataset](https://data.ontario.ca/dataset/energy-use-and-greenhouse-gas-emissions-for-the-broader-public-sector)
 
